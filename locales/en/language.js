@@ -1,4 +1,3 @@
-console.log("English (en) loaded");
 var STR_CHANNELS = "Channels";
 var STR_GAMES = "Games";
 var STR_OPEN = "Open";

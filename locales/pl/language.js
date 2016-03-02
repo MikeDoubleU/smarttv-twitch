@@ -1,4 +1,3 @@
-alert("Polski (pl) załadowano");
 var STR_CHANNELS = "Kanały";
 var STR_GAMES = "Gry";
 var STR_OPEN = "Otwórz";

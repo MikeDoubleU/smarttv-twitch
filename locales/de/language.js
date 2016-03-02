@@ -1,4 +1,4 @@
-console.log("German (de) loaded");
+
 var STR_CHANNELS = "Kanäle";
 var STR_GAMES = "Spiele";
 var STR_OPEN = "Kanal öffnen";

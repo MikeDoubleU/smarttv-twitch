@@ -1,4 +1,3 @@
-console.log("Russian (ru) loaded");
 var STR_CHANNELS = "Каналы";
 var STR_GAMES = "Игры";
 var STR_OPEN = "Открыть";

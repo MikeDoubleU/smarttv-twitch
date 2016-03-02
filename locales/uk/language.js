@@ -1,4 +1,3 @@
-alert("Ukrainian (uk) loaded (by PaulFurlet)");
 var STR_CHANNELS = "Канали";
 var STR_GAMES = "Ігри";
 var STR_OPEN = "Відкрити";

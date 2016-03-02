@@ -1,4 +1,3 @@
-console.log("Português (pt-br) carregado");
 var STR_CHANNELS = "Canais";
 var STR_GAMES = "Jogos";
 var STR_OPEN = "Abrir";
