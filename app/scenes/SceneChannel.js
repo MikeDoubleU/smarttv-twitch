@@ -15,7 +15,7 @@ SceneSceneChannel.state = SceneSceneChannel.STATE_LOADING_TOKEN;
 SceneSceneChannel.isShowDialogOn = false;
 
 SceneSceneChannel.QualityAuto = "Auto";
-SceneSceneChannel.quality = "High";
+SceneSceneChannel.quality = "Source";
 SceneSceneChannel.qualityPlaying = SceneSceneChannel.quality;
 SceneSceneChannel.qualityPlayingIndex = 2;
 SceneSceneChannel.qualityIndex;
